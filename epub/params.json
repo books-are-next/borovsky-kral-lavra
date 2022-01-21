@@ -1,1 +1,211 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "title": "Král Lávra",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Karel Havlíček Borovský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-21T12:15:38.446Z",
+      "publisherShort": "mkp",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-text-bez1radku--12-0 ",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "MLP-verse--0-12 ",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "kral_lavra_001.md",
+            "xhtml": "kral_lavra_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_002.md",
+            "xhtml": "kral_lavra_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_003.md",
+            "xhtml": "kral_lavra_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_004.md",
+            "xhtml": "kral_lavra_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_005.md",
+            "xhtml": "kral_lavra_005.xhtml",
+            "title": "Byltě jednou jeden starý dobrý král ...",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": true,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_006.md",
+            "xhtml": "kral_lavra_006.xhtml",
+            "id": 5,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Král Lávra",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Karel Havlíček Borovský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-21T12:15:38.446Z",
+      "publisherShort": "mkp",
+      "languageCode": "cs"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kral_lavra_001.md",
+        "xhtml": "kral_lavra_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kral_lavra_002.md",
+        "xhtml": "kral_lavra_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kral_lavra_003.md",
+        "xhtml": "kral_lavra_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kral_lavra_004.md",
+        "xhtml": "kral_lavra_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kral_lavra_005.md",
+        "xhtml": "kral_lavra_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "kral_lavra_006.md",
+        "xhtml": "kral_lavra_006.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/kral_lavra_idstyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image003_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image004_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_kral_lavra2_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-verse--0-12",
+      "Normal",
+      "char-style-override-1",
+      "char-style-override-2",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4",
+      "para-style-override-5"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "borovsky-kral-lavra"
+    },
+    "generatedAt": 1642767338567
+  }
+}
