@@ -1,0 +1,88 @@
+{
+  "author": "Karel Havlíček Borovský",
+  "identifier": "borovsky-kral-lavra-b27a672",
+  "languagecode": "cs",
+  "modified": "2022-01-21T12:15:38.446Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Král Lávra",
+  "revision": "b27a672",
+  "generatedAt": {
+    "date": "Fri Jan 21 2022 12:24:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1642767855184
+  },
+  "documents": [
+    {
+      "title": "Král Lávra",
+      "file": "kral_lavra_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kral_lavra_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Král Lávra",
+      "file": "kral_lavra_005.html",
+      "words": 979,
+      "chars": 5319,
+      "ideas": 259,
+      "role": "chapter",
+      "order": 1,
+      "prev": "kral_lavra_002.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Král Lávra",
+      "file": "colophon.html",
+      "words": 87,
+      "chars": 589,
+      "ideas": 11,
+      "role": "colophon",
+      "order": null,
+      "prev": "kral_lavra_005.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 1072,
+      "chars": 5944,
+      "ideas": 273
+    },
+    "chapters": {
+      "words": 979,
+      "chars": 5319,
+      "ideas": 259
+    }
+  }
+}

@@ -1,11 +1,110 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Král Lávra",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Karel Havlíček Borovský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-01-21T12:15:38.446Z",
+      "publisherShort": "mkp",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-text-bez1radku--12-0 ",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "MLP-verse--0-12 ",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "kral_lavra_001.md",
+            "xhtml": "kral_lavra_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_002.md",
+            "xhtml": "kral_lavra_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_003.md",
+            "xhtml": "kral_lavra_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_004.md",
+            "xhtml": "kral_lavra_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_005.md",
+            "xhtml": "kral_lavra_005.xhtml",
+            "title": "Byltě jednou jeden starý dobrý král ...",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": true,
+            "children": []
+          },
+          {
+            "filename": "kral_lavra_006.md",
+            "xhtml": "kral_lavra_006.xhtml",
+            "id": 5,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Král Lávra",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Karel Havlíček Borovský",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-21T12:15:38.446Z"
+      "modified": "2022-01-21T12:23:24.118Z"
     },
     "chapters": [
       {
@@ -105,6 +204,6 @@
       "user": "books-are-next",
       "repo": "borovsky-kral-lavra"
     },
-    "generatedAt": 1642767338567
+    "generatedAt": 1642767804261
   }
 }
