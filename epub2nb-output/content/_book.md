@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Král Lávra
@@ -11,7 +12,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
 readingOrder:
-  - kral_lavra_002.html
+  - promo.html
   - kral_lavra_005.html
   - colophon.html
 tocBase:
