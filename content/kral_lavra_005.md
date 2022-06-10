@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 > Byltě jednou jeden  
 > starý dobrý král,  
 > ale je to dávno,  
@@ -298,3 +300,5 @@ contentType: prose
 > a když tě co na jazyku svrbí,  
 > našeptej to jen do staré vrby,  
 > dceruško drahá.
+
+</section>
