@@ -2,8 +2,6 @@
 title: Tiráž
 ---
 
-<section>
-
 Znění tohoto textu vychází z díla [Král Lávra](https://aleph.nkp.cz/F/?func=direct&doc_number=000571067&local_base=CNB) tak, jak bylo vydáno nakladatelstvím Volné myšlenky v Praze v roce 1925. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 [![image003.jpg](./resources/image003_fmt.jpeg)](https://creativecommons.org/publicdomain/mark/1.0/deed.cs)
@@ -19,5 +17,3 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
   
 
 ![image004.jpg](./resources/image004_fmt.jpeg)
-
-</section>

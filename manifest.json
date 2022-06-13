@@ -7,16 +7,16 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-kral-lavra-d5a5d3d",
-  "revision": "d5a5d3d",
+  "identifier": "borovsky-kral-lavra-ed58ec2",
+  "revision": "ed58ec2",
   "readingOrder": [
     "promo.html",
     "kral_lavra_005.html",
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:50:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948219320
+    "date": "Mon Jun 13 2022 21:52:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157143316
   },
   "documents": [
     {
