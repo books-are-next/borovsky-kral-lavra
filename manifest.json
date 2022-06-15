@@ -7,16 +7,16 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-kral-lavra-ed58ec2",
-  "revision": "ed58ec2",
+  "identifier": "borovsky-kral-lavra-1b71c87",
+  "revision": "1b71c87",
   "readingOrder": [
     "promo.html",
     "kral_lavra_005.html",
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:52:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157143316
+    "date": "Wed Jun 15 2022 05:46:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655271975834
   },
   "documents": [
     {
@@ -54,9 +54,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 77,
-      "chars": 523,
-      "ideas": 7,
+      "words": 92,
+      "chars": 636,
+      "ideas": 8,
       "role": "colophon",
       "order": null,
       "prev": "kral_lavra_005.html",
@@ -74,9 +74,9 @@
   ],
   "totals": {
     "all": {
-      "words": 1062,
-      "chars": 5878,
-      "ideas": 269
+      "words": 1077,
+      "chars": 5991,
+      "ideas": 270
     },
     "chapters": {
       "words": 979,
