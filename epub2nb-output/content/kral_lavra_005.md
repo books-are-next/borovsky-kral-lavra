@@ -1,6 +1,6 @@
 ---
 hiddenTitle: true
-contentType: prose
+contentType: drama
 ---
 
 <section>

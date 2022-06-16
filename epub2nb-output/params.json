@@ -7,7 +7,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-01-21T12:15:38.446Z",
       "publisherShort": "mkp",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "contentType": "drama",
+      "edition": "drama"
     },
     "elements": {
       "title": "",
@@ -204,6 +206,6 @@
       "user": "books-are-next",
       "repo": "borovsky-kral-lavra"
     },
-    "generatedAt": 1655271069837
+    "generatedAt": 1655364067530
   }
 }

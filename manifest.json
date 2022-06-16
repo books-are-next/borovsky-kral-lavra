@@ -5,18 +5,19 @@
   "title": "Král Lávra",
   "author": "Karel Havlíček Borovský",
   "publisher": "Městská knihovna v Praze",
+  "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-kral-lavra-1b71c87",
-  "revision": "1b71c87",
+  "identifier": "borovsky-kral-lavra-48f64dd",
+  "revision": "48f64dd",
   "readingOrder": [
     "promo.html",
     "kral_lavra_005.html",
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:46:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655271975834
+    "date": "Thu Jun 16 2022 07:28:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364483211
   },
   "documents": [
     {
@@ -74,9 +75,9 @@
   ],
   "totals": {
     "all": {
-      "words": 1077,
-      "chars": 5991,
-      "ideas": 270
+      "words": 1078,
+      "chars": 5996,
+      "ideas": 271
     },
     "chapters": {
       "words": 979,
