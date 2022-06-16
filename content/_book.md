@@ -11,6 +11,8 @@ meta:
   modified: '2022-01-21T12:15:38.446Z'
   publisherShort: mkp
   languageCode: cs
+  contentType: drama
+  edition: drama
 readingOrder:
   - promo.html
   - kral_lavra_005.html
