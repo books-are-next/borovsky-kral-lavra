@@ -8,16 +8,16 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-kral-lavra-e6b9322",
-  "revision": "e6b9322",
+  "identifier": "borovsky-kral-lavra-60640bb",
+  "revision": "60640bb",
   "readingOrder": [
     "promo.html",
     "kral_lavra_005.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:54:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978091183
+    "date": "Thu Jul 07 2022 08:16:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181818093
   },
   "documents": [
     {
@@ -41,7 +41,7 @@
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -54,11 +54,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 92,
       "chars": 636,
       "ideas": 8,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "kral_lavra_005.html",
       "next": null,

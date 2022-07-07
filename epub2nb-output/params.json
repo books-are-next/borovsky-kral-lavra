@@ -59,7 +59,7 @@
             "filename": "kral_lavra_003.md",
             "xhtml": "kral_lavra_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -69,7 +69,7 @@
             "filename": "kral_lavra_004.md",
             "xhtml": "kral_lavra_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -90,7 +90,7 @@
             "filename": "kral_lavra_006.md",
             "xhtml": "kral_lavra_006.xhtml",
             "id": 5,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -206,6 +206,6 @@
       "user": "books-are-next",
       "repo": "borovsky-kral-lavra"
     },
-    "generatedAt": 1655977994052
+    "generatedAt": 1657181659158
   }
 }
