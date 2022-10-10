@@ -8,16 +8,16 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borovsky-kral-lavra-88ea4ac",
-  "revision": "88ea4ac",
+  "identifier": "borovsky-kral-lavra-c101187",
+  "revision": "c101187",
   "readingOrder": [
     "promo.html",
     "kral_lavra_005.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:00:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151258449
+    "date": "Mon Oct 10 2022 15:52:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417150821
   },
   "documents": [
     {
